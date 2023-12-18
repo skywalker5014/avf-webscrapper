@@ -6,4 +6,4 @@ for the buck and which has better customer interaction for that particular produ
 - frontend:
     - vite/react
 - backend:
-    - python: flask, beautifulsoup4 and conda
+    - python: flask, beautifulsoup4 and pandas
